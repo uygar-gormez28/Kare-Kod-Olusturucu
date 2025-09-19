@@ -17,7 +17,7 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 ## 📷 Ekran Görüntüleri
 
 ### Ana Ekran
-![Ana Ekran](first)
+![Ana Ekran](first.png)
 
 ### QR Kod Oluşturulmuş Hali
 ![QR Kod Oluşturulmuş](./Ekran%20görüntüsü%202025-09-19%20200658.png)
