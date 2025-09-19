@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const link = document.createElement("a");
       link.href = qrImageData;
       link.download = "qr-code.png";
-      link.click;
+      link.click();
     }
   });
 });
