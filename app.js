@@ -25,4 +25,17 @@ document.addEventListener("DOMContentLoaded", () => {
       qrCodeContainer.style.transform = "scale(1)";
     }
   });
+
+  //KAydet btn basıldığında çalışan kısım
+
+  saveBtn.addEventListener("click", () => {
+    if (qrCodeInstance) {
+      const qrImageData = qrCodeInstance._el.querySelector("img").getAttribute("src");
+
+      const link = document.createElement("a");
+      link.href = qrImageData;
+      link.download = "qr-code.png";
+      link.click;
+    }
+  });
 });
