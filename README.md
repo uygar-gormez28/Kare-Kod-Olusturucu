@@ -14,13 +14,4 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 - **JavaScript (ES6)**
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) kütüphanesi
 
-## 📷 Ekran Görüntüleri
 
-### Ana Ekran
-![Ana Ekran](C:\Users\uygrg\OneDrive\Masaüstü\Kare Kod Oluşturucu/first.png)
-
-### QR Kod Oluşturulmuş Hali
-![QR Kod Oluşturulmuş Hali](second.png)
-
-### Kaydetme Penceresi
-![Kaydetme Penceresi](third.png)
