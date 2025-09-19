@@ -17,7 +17,7 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 ## 📷 Ekran Görüntüleri
 
 ### Ana Ekran
-![Ana Ekran](first.png)
+![Ana Ekran](C:\Users\uygrg\OneDrive\Masaüstü\Kare Kod Oluşturucu)
 
 ### QR Kod Oluşturulmuş Hali
 ![QR Kod Oluşturulmuş Hali](second.png)
