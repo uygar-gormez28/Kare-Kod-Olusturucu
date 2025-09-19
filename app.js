@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
   generateBtn.addEventListener("click", (e) => {
     //btn click olduğunda qr oluşturur
     //kullanıcığın girdiği text/url
-    let qrText = document.querySelector(".qr-text").value;
+    let qrText = document.querySelector(".qr-text").value.trim();
 
     if (qrCodeInstance) {
       qrCodeInstance.clear(); //önceki qr sil
