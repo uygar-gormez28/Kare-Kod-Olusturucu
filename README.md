@@ -13,5 +13,7 @@ HTML, CSS ve JavaScript kullanılarak geliştirilmiştir.
 - **CSS3**
 - **JavaScript (ES6)**
 - [QRCode.js](https://github.com/davidshimjs/qrcodejs) kütüphanesi
+- 
+    <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js"></script> 
 
 
