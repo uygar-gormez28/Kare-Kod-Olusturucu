@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Kare Kod Oluşturucu</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Kare Kod Oluşturucu</h1>
+      <label for="qr-text">Yazı veya bağlantı adresi</label>
+      <input type="text" class="qr-text" />
+
+      <button class="generate-btn">Kare Kod Oluştur</button>
+      <button class="save-btn">Kare Kod Kaydet</button>
+      <div class="qr-code"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/gh/davidshimjs/qrcodejs@gh-pages/qrcode.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
